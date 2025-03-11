@@ -1,2 +1,0 @@
-hello guys
-this is a new python file contains python codes.
